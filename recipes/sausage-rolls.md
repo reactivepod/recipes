@@ -1,14 +1,18 @@
-Sausage rolls
-=======================
+# Sausage Rolls
+
 Simple finger food, made healthier by DIY.
 
-Time
------------------------
+* [Time](#time)
+* [Ingredients](#ingredients)
+* [Preparation](#preparation)
+
+## Time
+
 - 30 minutes preparation
 - 20 minutes cooking
 
-Ingredients
------------------------
+## Ingredients
+
 - 500g pork mince
 - Two sheets of frozen puff pastry
 - One slice of bread crumbed
@@ -19,8 +23,8 @@ Ingredients
 - One tablespoon of tomato paste
 - A sprinkle of mixed herbs
 
-Preparation
------------------------
+## Preparation
+
 1. Lay out frozen pastry to defrost while you prepare the filling.
 2. Pre-heat your oven to 200°C
 3. Grate and measure other ingredients into a mixing bowl and mix well.
