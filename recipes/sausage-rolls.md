@@ -2,6 +2,10 @@
 
 Simple finger food, made healthier by DIY.
 
+* [Time](#time)
+* [Ingredients](#ingredients)
+* [Preparation](#preparation)
+
 ## Time
 
 - 30 minutes preparation
@@ -30,4 +34,4 @@ Simple finger food, made healthier by DIY.
 7. Slice with a sharp knife into lengths of your liking.
 8. Place the rolls onto greaseproof paper on a oven tray and cook with fan force for 20 minutes or until pastry is golden.
 
-Enjoy! :tada:
+Enjoy!
