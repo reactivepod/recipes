@@ -1,4 +1,4 @@
-# recipes
+# Recipes
 
 > Recipes for while listening to Reactive.
 
