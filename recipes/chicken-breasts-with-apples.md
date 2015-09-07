@@ -1,4 +1,4 @@
-# Chicken breasts with apples
+# Chicken Breasts with Apples
 
 The legend has it that pasta with tuna and tomato sauce is the "college-student recipe", since it is so easy and fast to prepare (you just boil the pasta and add the tuna and tomato from their cans).
 
