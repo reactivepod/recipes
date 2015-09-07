@@ -9,7 +9,7 @@ This is a collection of recipes that we encourage you to try out at home while l
 * [Sausage Rolls](https://github.com/reactivepod/recipes/blob/master/recipes/sausage-rolls.md) by [@ollicle](http://github.com/ollicle).
 * [Chicken Breasts with Apples](https://github.com/reactivepod/recipes/blob/master/recipes/chicken-breasts-with-apples.md) by [@me-stevens](http://github.com/me-stevens).
 
-# License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
