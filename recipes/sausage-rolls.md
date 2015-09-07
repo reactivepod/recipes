@@ -35,9 +35,3 @@ Simple finger food, made healthier by DIY.
 8. Place the rolls onto greaseproof paper on a oven tray and cook with fan force for 20 minutes or until pastry is golden.
 
 Enjoy!
-
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Oliver Boermans](http://www.ollicle.com/) has waived all copyright and related or neighboring rights to this work.
