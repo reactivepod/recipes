@@ -13,7 +13,7 @@ In another bowl combine<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**3 egg yolks**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**7 tablespoons vegetable oil**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**1 1/2 cups milk**<br/>
-Pour the wet ingredients over the dry ingredients and mix well
+Pour the wet ingredients over the dry ingredients and mix well<br/>
 In another bowl beat until stiff but not dry<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**3 egg whites**<br/>
 Fold them into the batter just until blended
